@@ -1,6 +1,6 @@
 ### Wi-fi tips  
 
-[![](assets/img/wifi-logo-small)](https://ins1x.github.io/wifi-tips/)  
+[![](https://ins1x.github/ins1x/wifi-tips/assets/img/wifi-logo-small)](https://ins1x.github.io/wifi-tips/)  
 Сделайте ваше соединение wi-fi стабильным
 
 ## Оглавление
