@@ -1,8 +1,7 @@
 
-[![](https://ins1x.github/ins1x/wifi-tips/assets/img/md-logo.jpg)](https://ins1x.github.io/wifi-tips)  
+[![](https://github.com/ins1x/wifi-tips/raw/main/assets/img/md-logo.jpg)](https://ins1x.github.io/wifi-tips)  
 
 Сделайте ваше соединение wi-fi стабильным! Советы по улучшению сигнала вай-фай в домашней сети.  
-
 
 * [Выбор местоположения](https://ins1x.github.io/wifi-tips/#choose-place)
   * [Возможные причины и помехи](https://ins1x.github.io/wifi-tips/#interference)
