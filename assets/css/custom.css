@@ -20,6 +20,7 @@ body {
 }
 article {
   text-align: justify;
+  background: linear-gradient(90deg, rgba(24, 28, 37, 1) 0%, rgba(13, 16, 20, 1) 50%, rgba(24, 28, 37, 1) 100%);
 }
 h1, h2, h3, h4 {
   color: #0172ad;
