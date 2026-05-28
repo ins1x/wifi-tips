@@ -3,6 +3,7 @@
  * Custom style params for Pico CSS ✨ v2.1.1 (https://picocss.com)
  * CSS variables for color schemes https://picocss.com/docs/css-variables
  */
+
  :root {
   --pico-border-radius: 1.5rem;
   --pico-typography-spacing-vertical: 0.5rem;
@@ -14,6 +15,7 @@
   --pico-font-weight: 200;
   --pico-font-size: 120%;
 }
+
 body {
   background: #11161F;
   background: linear-gradient(90deg,rgba(17, 22, 31, 1) 0%, rgba(20, 24, 38, 1) 35%, rgba(17, 22, 31, 1) 100%);
